@@ -8,4 +8,4 @@ Principlamente em economia, saúde e marketing, onde são utilizados para analis
 
 Ou informaçãoes históricas como prontuário, sucesso de campanhas passadas ou relatórios de analistas financeiros.
 
-![dicionario](https://pixabay.com/vectors/man-looking-words-book-black-29749/)
+
